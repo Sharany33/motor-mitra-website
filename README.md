@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# 🚘 MotorMitra – Automobile eCommerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+MotorMitra is an eCommerce website for automobile products like engine oil, brake pads, and more. This project was built during my internship at *Hungercat Digitals*.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Project Details
 
-### `npm start`
+- *Role*: Frontend Developer (Internship)
+- *Frontend*: ReactJS, Bootstrap
+- *Backend*: Node.js (handled by company team)
+- *Database*: MySQL(handled by company team)
+- *Tools Used*: GitHub, Postman, VS Code
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔧 My Responsibilities
 
-### `npm test`
+- Developed responsive UI components in React
+- Integrate backend APIs using fetch / axios in future
+- Working with real-world product data and customer flows
+- Learning and exploring backend integration using Node.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In the project directory, run:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+npm install
+npm start
+This will run the app in development mode.
+Open http://localhost:3000 in your browser.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+📦 Build for Production
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To create an optimized production build:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+npm run build
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The build output will be in the build/ folder.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+📁 Folder Structure (Simplified)
 
-### Code Splitting
+motormitra/
+├── public/
+│   ├── index.html
+│   └── manifest.json
+├── src/
+│   ├── components/
+│   │   └── ... (all reusable UI components)
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+🌐 Deployment
 
-### Making a Progressive Web App
+Deployment instructions will be added once the app is hosted (e.g., Netlify, Vercel, or your company server).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+ Live Demo (Local)
+MotorMitra is currently running locally at:
+[http://localhost:3000] http://localhost:3000
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+📚 Resources
 
-### Deployment
+React Documentation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Create React App Guide
 
-### `npm run build` fails to minify
+Bootstrap Docs
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+---
+
+This project is under active development and will continue evolving.
+
+---
