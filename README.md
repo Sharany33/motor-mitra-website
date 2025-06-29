@@ -68,10 +68,6 @@ motormitra/
 
 Deployment instructions will be added once the app is hosted (e.g., Netlify, Vercel, or  company server).
 
- Live Demo (Local)
-MotorMitra is currently running locally at:
-[http://localhost:3000] http://localhost:3000
-
 ---
 
 📚 Resources
@@ -81,7 +77,6 @@ React Documentation
 Create React App Guide
 
 Bootstrap Docs
-
 
 ---
 
