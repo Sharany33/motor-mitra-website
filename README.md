@@ -47,7 +47,7 @@ The build output will be in the build/ folder.
 
 ---
 
-📁 Folder Structure (Simplified)
+📁 Folder Structure
 
 motormitra/
 ├── public/
