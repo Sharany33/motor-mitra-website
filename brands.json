@@ -1,0 +1,318 @@
+{
+  "brands": [
+    {
+      "name": "Toyota",
+      "car_types": [
+        {
+          "title": "SUV",
+          "image": "ToyotaSuv.png",
+          "next": "Explore SUV",
+          "link": "/CsubCat",
+          "models": [
+            "Fortuner",
+            "Urban Cruiser Hyryder"
+            
+          ]
+        },
+        {
+          "title": "MPV",
+          "image": "ToyotaMpv.png",
+          "next": "Explore MPV",
+          "link": "/toyota-mpv",
+          "models": [
+            "Innova Crysta",
+            "Vellfire"
+          ]
+        },
+        {
+          "title": "Hybrid",
+          "image": "Toyotahybrid.png",
+          "next": "Explore Hybrid",
+          "link": "/toyota-hybrid",
+          "models": [
+            "Camry Hybrid"
+          
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hyundai",
+      "car_types": [
+        {
+          "title": "SUV",
+          "image": "HyundaiSuv.png",
+          "next": "Explore SUV",
+          "link": "/hyundai-suv",
+          "models": [
+            "Creta",
+            "Venue",
+            "Alcazar"
+          ]
+        },
+        {
+          "title": "MPV",
+          "image": "HyundaiMpv.png",
+          "next": "Explore MPV",
+          "link": "/hyundai-mpv",
+          "models": [
+           "Staria"
+          ]
+        },
+        {
+          "title": "Sedan",
+          "image": "HyundaiSedan.png",
+          "next": "Explore Sedan",
+          "link": "/hyundai-hybrid",
+          "models": [
+           "Aura"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kia",
+      "car_types": [
+        {
+          "title": "SUV",
+          "image": "KiaSuv.png",
+          "next": "Explore SUV",
+          "link": "/kia-suv",
+           "models": [
+           "Seltos",
+           "Sonet"
+           ]
+        },
+        {
+          "title": "MPV",
+          "image": "KiaMpv.png",
+          "next": "Explore MPV",
+          "link": "/kia-mpv",
+           "models": [
+           "Carnival",
+           "canins"
+           ]
+        },
+        {
+          "title": "Hybrid",
+          "image": "KiaHybrid.jpg",
+          "next": "Explore Sedan",
+          "link": "/kia-hybrid",
+            "models": [
+           "EV6",
+           "EV9"
+           ]
+        }
+      ]
+    },
+    {
+      "name": "Maruti",
+      "car_types": [
+        {
+          "title": "SUV",
+          "image": "MarutiSuv.jpg",
+          "next": "Explore SUV",
+          "link": "/maruti-suv",
+            "models": [
+           "Brezza"
+           ]
+        },
+        {
+          "title": "MPV",
+          "image": "MarutiMpv.jpg",
+          "next": "Explore MPV",
+          "link": "/maruti-mpv",
+            "models": [
+           "Ertiga",
+           "XL6"
+           ]
+        },
+        {
+          "title": "Hybrid",
+          "image": "MarutiHybrid.png",
+          "next": "Explore",
+          "link": "/maruti-hybrid",
+            "models": [  
+           "Inricto Hybrid"
+           ]
+        }
+      ]
+    },
+    {
+      "name": "Mgmotor",
+      "car_types": [
+        {
+          "title": "SUV",
+          "image": "mgSuv.jpg",
+          "next": "Explore SUV",
+          "link": "/maruti-suv",
+            "models": [
+           "Hector"
+           ]
+        },
+        {
+          "title": "MPV",
+          "image": "mgMpv.jpg",
+          "next": "Explore MPV",
+          "link": "/maruti-mpv",
+              "models": [
+           "Hector plus"
+           ]
+        },
+        {
+          "title": "Hybrid",
+          "image": "mgHybrid.jpg",
+          "next": "Explore",
+          "link": "/maruti-hybrid",
+              "models": [
+           "Zs EV",
+           "Comet EV"
+           ]
+        }
+      ]
+    },
+    {
+      "name": "mahindra",
+      "car_types": [
+        {
+          "title": "SUV",
+          "image": "mahinSuv.jpg",
+          "next": "Explore SUV",
+          "link": "/mahin-suv",
+              "models": [
+           "Scorpio-N",
+           "Thar"
+          
+           ]
+        },
+        {
+          "title": "MPV",
+          "image": "mahinMpv.png",
+          "next": "Explore MPV",
+          "link": "/mahin-mpv",
+              "models": [
+           "Marazzo"
+           ]
+        },
+        {
+          "title": "EV",
+          "image": "mahinEV.png",
+          "next": "Explore",
+          "link": "/mahin-EV",
+              "models": [
+           "BE6 Hybrid"
+          
+           ]
+        }
+      ]
+    },
+    {
+      "name": "tata",
+      "car_types": [
+        {
+          "title": "SUV",
+          "image": "tataSuv.jpeg",
+          "next": "Explore SUV",
+          "link": "/tata-suv",
+              "models": [
+           "Safari",
+           "Nexon",
+           "Punch"
+          
+           ]
+        },
+        {
+          "title": "MPV",
+          "image": "tataMpv.png",
+          "next": "Explore MPV",
+          "link": "/tata-mpv",
+              "models": [
+           "Hexa",
+           "Aria"
+          
+           ]
+        },
+        {
+          "title": "EV",
+          "image": "tataEV.png",
+          "next": "Explore",
+          "link": "/tata-EV",
+              "models": [
+           "Nexon EV",
+           "Punch EV"
+          
+           ]
+        }
+      ]
+    },
+    {
+      "name": "volkswagen",
+      "car_types": [
+        {
+          "title": "SUV",
+          "image": "volksSuv.jpg",
+          "next": "Explore SUV",
+          "link": "/volks-suv",
+              "models": [
+           "Taigun",
+           "Tayron"
+          
+           ]
+        },
+        {
+          "title": "MPV",
+          "image": "volksMpv.png",
+          "next": "Explore MPV",
+          "link": "/volks-mpv",
+              "models": [
+           "Multivan"
+          
+           ]
+        },
+        {
+          "title": "EV",
+          "image": "volksEV.jpg",
+          "next": "Explore",
+          "link": "/volks-EV",
+              "models": [
+           "Touareg"
+           ]
+        }
+      ]
+    },
+    {
+      "name": "honda",
+      "car_types": [
+        {
+          "title": "SUV",
+          "image": "hondaSuv.jpg",
+          "next": "Explore SUV",
+          "link": "/honda-suv",
+              "models": [
+           "Elevate"
+          
+           ]
+        },
+        {
+          "title": "MPV",
+          "image": "hondaMpv.jpg",
+          "next": "Explore MPV",
+          "link": "/honda-mpv",
+              "models": [
+           "Mobilio"
+           ]
+        },
+        {
+          "title": "Hybrid",
+          "image": "hondaHybrid.jpg",
+          "next": "Explore",
+          "link": "/honda-Hybrid",
+              "models": [
+           "Accord Hybrid "
+          
+           ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+.gif:hover {
+    content: url('funnel.gif');
+}
+.gif2:hover{
+    content: url('sparkPlug.gif');
+}
+.gif3:hover{
+    content: url('chain.gif');
+}
+.gif4:hover{
+    content: url('airFilter.gif');
+}
+
+
+.card:hover {
+   
+
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.851);
+    transform: scale(1.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+}
+
+.card {
+    overflow: hidden; /* Prevent content from spilling out */
+ font-size: small;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers content inside */
+    align-items: center; /* Centers content inside */
+    border-radius: 30px; /* Rounded corners */
+    margin-bottom: 5px;
+  
+}
+
+.text-center1{
+    text-align: center; /* Center text */
+    font-size: 10px; /* Adjust font size */
+    color: #020207; /* Text color */
+    margin-top: 10px; /* Space above text */
+ object-fit: fill;
+   
+}
+
+.card img {
+   margin: 0 auto; /* Center the image */
+   display: block; /* Ensure it behaves like a block element */
+
+  margin-top: 5px; /* Add some space at the top */
+   width: 150px; /* Set a fixed width */
+  height: 150px; /* Set a fixed height */
+    object-fit: contain; /* Maintain aspect ratio */
+
+}
+

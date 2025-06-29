@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Spark Plug Tools",
+    "img": "1stcategory/brakefluid.png",
+    "link": "/CsubCat",
+    "category": "Cat1"
+  },
+  {
+    "title": "Ignition Coil Tools",
+    "img": "1stcategory/coolant.png",
+    "link": "/ignition-coils",
+    "category": "Cat1"
+  },
+  {
+    "title": "Timing Tools",
+    "img": "1stcategory/EngineOil.png",
+    "link": "/timing-tools",
+    "category": "Cat1"
+  },
+  {
+    "title": "Fuel System Tools",
+    "img": "1stcategory/fluidExtractor.png",
+    "link": "/fuel-systems",
+    "category": "Cat1"
+  },
+  {
+    "title": "Electrical Tools",
+    "img": "1stcategory/funnelDrainer.png",
+    "link": "/electrical-tools",
+    "category": "Cat1"
+  },
+
+  {
+    "title": "Spark Plug Tools",
+    "img": "2ndcategory/airFilter.png",
+    "link": "/spark-plugs",
+    "category": "Cat2"
+  },
+  {
+    "title": "Ignition Coil Tools",
+    "img": "2ndcategory/filterWrench.png",
+    "link": "/ignition-coils",
+    "category": "Cat2"
+  },
+  {
+    "title": "Timing Tools",
+    "img": "2ndcategory/fuelFilters.png",
+    "link": "/timing-tools",
+    "category": "Cat2"
+  },
+  {
+    "title": "Fuel System Tools",
+    "img": "2ndcategory/FuelSystem.png",
+    "link": "/fuel-systems",
+    "category": "Cat2"
+  },
+  {
+    "title": "Electrical Tools",
+    "img": "2ndcategory/oilFilters.png",
+    "link": "/electrical-tools",
+    "category": "Cat2"
+  },
+
+  {
+    "title": "Spark Plug Tools",
+    "img": "3rdcategory/Crankshaft.png",
+    "link": "/spark-plugs",
+    "category": "Cat3"
+  },
+  {
+    "title": "Ignition Coil Tools",
+    "img": "3rdcategory/stretchTool.png",
+    "link": "/ignition-coils",
+    "category": "Cat3"
+  },
+  {
+    "title": "Timing Tools",
+    "img": "3rdcategory/timingBel.png",
+    "link": "/timing-tools",
+    "category": "Cat3"
+  },
+  {
+    "title": "Fuel System Tools",
+    "img": "3rdcategory/TimingBelt.png",
+    "link": "/fuel-systems",
+    "category": "Cat3"
+  },
+
+  {
+    "title": "Spark Plug Tools",
+    "img": "category4/ignitioncoil.png",
+    "link": "/spark-plugs",
+    "category": "Cat4"
+  },
+  {
+    "title": "Ignition Coil Tools",
+    "img": "category4/multimeters.png", 
+    "link": "/ignition-coils",
+    "category": "Cat4"
+  },
+  {
+    "title": "Timing Tools",
+    "img": "category4/sparkTester.png",
+    "link": "/timing-tools",
+    "category": "Cat4"
+  }, 
+  {
+    "title": "Electrical Tools",
+    "img": "category4/timingLights.png",
+    "link": "/electrical-tools",
+    "category": "Cat4"
+  }
+] 

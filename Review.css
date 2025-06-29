@@ -1,0 +1,39 @@
+/* .row {
+  gap: 10px; /* Reduces the space between cards 
+}
+
+.card {
+  width: 90%; /* Increases card width 
+  margin: auto; /* Centers the cards 
+}
+
+.card-body {
+  padding-top: 15px; /* Pushes content slightly down 
+}
+
+.card-title {
+  margin-bottom: 10px; /* Creates space between heading and text 
+} */
+
+
+.card-review {
+  width: 90%; /* Increases card width */
+  margin: auto; /* Centers the cards */
+  margin-top: 30px;
+  gap: 10px;
+  height: auto;
+  
+  
+}
+
+.card-review-body {
+  padding-top: 20px; /* Pushes content slightly down */
+  font-size:large;
+}
+
+.card-review-title {
+  margin-bottom: 20px; /* Creates space between heading and text */
+  text-align: center;
+  font-weight:bolder;
+}
+

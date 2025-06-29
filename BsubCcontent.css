@@ -1,0 +1,134 @@
+/* Parent Container */
+.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    /* Aligns content to the left */
+    height: 100vh;
+    padding: 100px;
+    box-sizing: border-box;
+
+    overflow: hidden;
+}
+
+/* Image Stays Left */
+.B-container img {
+    width: 910px;
+    max-width: 930px;
+    max-height: 90vh;
+    object-fit: contain;
+    border-radius: 18px;
+}
+
+/* Moves Text & Buttons Further Right */
+.col-md-8.B-container {
+    flex: 1;
+    padding: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+
+.col-md-4.B-container {
+    flex: 1.2;
+    /* wider for image */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Right Section – Text + Buttons */
+.B-container {
+    flex: 1;
+    padding: 40px;
+}
+
+/* Title Styling */
+.B-container h5 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #222;
+    text-transform: uppercase;
+}
+
+/* Description Text */
+.B-container p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 40px;
+}
+
+/* Button Group Container */
+/* .btn-group,
+.btn-primary {
+  margin-top: 10px;
+} */
+
+/* Buttons: Car Models & Explore */
+.btn-group .btn,
+.btn-primary {
+    font-size: 16px;
+
+    border-radius: 6px;
+    border: none;
+
+    margin-top: 10px;
+    padding-top: 5PX;
+}
+
+/* Car Models (Blue) */
+.btn-secondary {
+    background-color: #007bff;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: #0056b3;
+    color: rgb(0, 0, 0);
+}
+
+/* Explore (Green) */
+.btn-primary {
+    background-color: #28a745;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #218838;
+}
+
+/* Dropdown styling */
+.dropdown-menu {
+    border-radius: 6px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Mobile View */
+@media (max-width: 768px) {
+    .card-container {
+        flex-direction: column;
+        height: auto;
+        padding: 40px 20px;
+    }
+
+    .B-container img {
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .btn-group,
+    .btn-primary {
+        width: 100%;
+    }
+
+    .btn-secondary,
+    .btn-primary {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
