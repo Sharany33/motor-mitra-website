@@ -2,7 +2,7 @@
 
 MotorMitra is an automobile eCommerce web application built to simulate real-world seller and customer workflows such as product browsing, cart management, and checkout flows.
 
-This project went through multiple development phases and reflects the evolution of my full-stack learning journey.
+This project went through multiple development phases and reflects the evolution of my approach to building full-stack web applications.
 
 ---
 
@@ -19,18 +19,18 @@ This project went through multiple development phases and reflects the evolution
 
 ### Phase 1 – Frontend & API Integration  
 The initial version of MotorMitra was developed during an internship, where I focused on:
-- Building responsive UI components in React
-- Integrating backend APIs
+- Building responsive UI components using React
+- Integrating backend APIs provided by the company
 - Working with real-world product and customer data
 - Understanding production-level frontend workflows
 
 ### Phase 2 – Full-Stack Rebuild  
-To gain end-to-end ownership, the project was later rebuilt independently using **Supabase** for:
+To gain end-to-end ownership, the project was later rebuilt independently using **Supabase** as a managed backend for:
 - Authentication
 - Database management
 - API handling  
 
-This phase focused on understanding full-stack architecture and product-level decision making.
+This phase focused on understanding full-stack architecture, backend integration, and product-level decision making.
 
 ---
 
@@ -38,7 +38,7 @@ This phase focused on understanding full-stack architecture and product-level de
 
 - Product listing and browsing
 - Cart management
-- Role-based access (user/admin/vendor – basic)
+- Basic role-based access (user/admin/vendor)
 - Authentication and protected routes
 - API integration and data handling
 
